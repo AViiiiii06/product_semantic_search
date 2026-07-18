@@ -222,6 +222,3 @@ Use `indexer.py` and `retriever.py` when:
 - Cache VLM checks incrementally during retrieval.
 - Add a small evaluation script with manually labeled ground truth for project-specific metrics.
 
-## Security Notes
-
-Do not commit `.env` or API keys. This repository's `.gitignore` excludes `.env`, virtual environments, caches, and local test images.

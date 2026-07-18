@@ -1,0 +1,7 @@
+{
+  "model_name": "patrickjohncyh/fashion-clip",
+  "embedding_dim": 512,
+  "num_images": 3200,
+  "index_type": "faiss.IndexFlatIP",
+  "similarity": "cosine via normalized embeddings"
+}
